@@ -1,4 +1,5 @@
 ## National Fuel Market Analysis (Argentina)
+https://github.com/rahimahisah17/National-Fuel-Market-Analysis/blob/main/ezgif.com-optimize.gif
 
 **Project Overview**
 An interactive two-page Power BI solutions report analyzing pricing dynamics, regional trends, and competitive performance in the Argentinian fuel sector. This project transforms complex market data into actionable strategic insights, focusing on revenue optimization and shift-based pricing variances. This comprehensive report explores the National Fuel Market Analysis in Argentina, detailing market dynamics, pricing structures, and competitive insights derived from a robust dataset. The analysis was developed using a professional BI workflow to transform raw data into strategic intelligence.
